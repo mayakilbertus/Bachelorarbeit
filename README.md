@@ -14,7 +14,7 @@ Endtabelle.py --> Erstellt die Endtabelle für die statistische Auswertung: Endt
 
 Abbildungen.R --> Erstellt Histogramme und Plots
 
-Statsitk.R --> Shapiro.Wilk Test und Korrelationsnanalyse
+Statistik.R --> Shapiro.Wilk Test und Korrelationsnanalyse
 
 Verteilung.R --> Test der Verteilung der abhängigen Variable (Anzahl an Fledermauskontakte)
 
