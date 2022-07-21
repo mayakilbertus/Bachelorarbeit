@@ -12,6 +12,17 @@ Cluster_id.R --> Erstellt eine Cluster_ID für gleiche Abschnitte
 
 Endtabelle.py --> Erstellt die Endtabelle für die statistische Auswertung: Endtabelle.py
 
+Abbildungen.R --> Erstellt Histogramme und Plots
+
+Statsitk.R --> Shapiro.Wilk Test und Korrelationsnanalyse
+
+Verteilung.R --> Test der Verteilung der abhängigen Variable (Anzahl an Fledermauskontakte)
+
+GLM.R --> Erstellt generalisiertes lineares Modell
+
+
+
+
 
   
 
