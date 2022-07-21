@@ -1,19 +1,18 @@
 # Bachelorarbeit Anhang A
 
-Datenverarbeitung 
+Datenverarbeitung (Dateinname --> Aufgabe)
 
-#Kopiert alle .wav und .xml Datein in einen neuen Ordner: wav_xml_Dateien_kopieren.py 
+wav_xml_Dateien_kopieren.py --> Kopiert alle .wav und .xml Datein in einen neuen Ordner
 
-#Findet und löscht Duplikate im neuen Ordner: duplikate_loeschen.py
+duplikate_loeschen.py --> Findet und löscht Duplikate im neuen Ordner
 
-#Führt alle .csv Dateien in einem Ordner zusammen in eine Datei: CSV_Dateien_zusammenführen.py
+CSV_Dateien_zusammenführen.py --> Führt alle .csv Dateien in einem Ordner zusammen in eine Datei
 
-#Erstellt eine Cluster_ID für gleiche Abschnitte: Cluster_id.R
+Cluster_id.R --> Erstellt eine Cluster_ID für gleiche Abschnitte
 
-#Erstellt die Endtabelle für die statistische Auswertung: Endtabelle.py
+Endtabelle.py --> Erstellt die Endtabelle für die statistische Auswertung: Endtabelle.py
 
 
-Statistische Auswertungen: stat_test_ges.R; stat_test_pip.R; stat_test_myo.R; stat_test_noc.R
   
 
 
